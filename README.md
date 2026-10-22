@@ -15,3 +15,19 @@ Solutions sync automatically from LeetCode on each accepted submission.
 
 ## Contact
 Finn Smith · [LinkedIn](https://www.linkedin.com/in/finn-smith-83a913349)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/0412-fizz-buzz/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/0412-fizz-buzz/) | Easy |
+<!---LeetCode Topics End-->
