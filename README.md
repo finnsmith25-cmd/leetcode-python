@@ -35,9 +35,14 @@ Finn Smith · [LinkedIn](https://www.linkedin.com/in/finn-smith-83a913349)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
