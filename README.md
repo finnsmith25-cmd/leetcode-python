@@ -26,6 +26,7 @@ Finn Smith · [LinkedIn](https://www.linkedin.com/in/finn-smith-83a913349)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/0412-fizz-buzz/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
