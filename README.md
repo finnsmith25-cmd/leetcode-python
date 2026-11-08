@@ -27,6 +27,7 @@ Finn Smith · [LinkedIn](https://www.linkedin.com/in/finn-smith-83a913349)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/0412-fizz-buzz/) | Easy |
+| [0771-jewels-and-stones](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Finn Smith · [LinkedIn](https://www.linkedin.com/in/finn-smith-83a913349)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0771-jewels-and-stones](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/0771-jewels-and-stones/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/finnsmith25-cmd/leetcode-python/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
